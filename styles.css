@@ -17,11 +17,11 @@ p {
     border: dotted 2px black;
 }
 
- ol {
+ ol.aa {
 list-style-type: lower-alpha;
 }
 
- ul {
+ ul.AA{
 list-style-type: square;
 }
 
