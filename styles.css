@@ -11,7 +11,7 @@ h1 {
 p {
   font-size: 12px;
    color:#E6E6FA;
-
+}
 
 .Task1 {
     border: dotted 2px black;
@@ -21,7 +21,7 @@ p {
 list-style-type: lower-alpha;
 }
 
- ul.under1{
+ ul.under1 {
 list-style-type: square;
 }
 
