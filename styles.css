@@ -16,7 +16,7 @@ p {
 .task1 {
     width: 100px;
     height: 100px;
-    border: dotted 2px #f00;
+    border: dotted 2px black;
 }
 
  ol {
