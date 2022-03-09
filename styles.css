@@ -13,10 +13,10 @@ p {
    color:#E6E6FA;
 
 
-.one {
-  border: dotted 2px;
-  width: 100px;
-  height: 100px;
+.task1 {
+  border: 2px dotted;
+  border-width: 100px;
+   border-height: 100px;
 }
 
  ol {
