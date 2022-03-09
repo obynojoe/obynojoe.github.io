@@ -14,8 +14,9 @@ p {
 
 
 .one {
- border-style: dotted;
- border-width: 2px;
+  border: dotted 2px;
+  width: 100px;
+  height: 100px;
 }
 
  ol {
