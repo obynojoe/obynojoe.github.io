@@ -1,33 +1,66 @@
+body{
+    background-color: ivory;
+    color: gray;
+    margin-left: 90px;
+    margin-right: 90px;
 
- body {
-  background-color:Ivory;
-  color:Gray;
-    }
-
-h1 {
-  font-size: 20px;
-  text-align: center;
 }
 
-p {
-   /* font-size: 12px*/
-  font-size: 20px;
-   color:blue;
-  /* color:Lavender;*/
+h1{
+    font-size:20px;
+    text-align: center;
+}
+
+p{
+    font-size: 1px;
+    font-size: 18px;
+   /* color: lavender;*/
+   color: black;
+}
+
+.MyDiv1 {
+    border-style: dotted;
+    border-width: 2px;
+    width: 200px;
+    height: 200px;
+    
+}
+
+.over1{
+    list-style-type: lower-alpha;
+    color: black;
+}
+
+.under1{
+    list-style-type: square;
+    color: black;
+}
+
+.myimage1{
+    border-radius: 30px;  
+    width: 400px;
   
+    float: left;
+    
 }
 
-.Task1 {
-    border: dotted 2px black;
+.divimage2
+{  
+    width: 700px;
+    height: auto;
+    float: right;
+    
+    
+}
+    
+
+.home1 ,.port1{
+    background-color: yellow;
+}
+.myprogress{
+    position: fixed;
+    bottom: 0;
+    
 }
 
- ol.over1 {
-list-style-type: lower-alpha;
-}
 
- ul.under1 {
-list-style-type: square;
-}
-
-
- 
