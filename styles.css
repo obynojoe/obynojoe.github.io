@@ -1,5 +1,6 @@
 body{
-    background-color: ivory;
+   /* background-color: ivory;*/
+    background-color: lavender;
     color: gray;
     margin-left: 90px;
     margin-right: 90px;
@@ -12,10 +13,9 @@ h1{
 }
 
 p{
- /*font-size: 12px*/
-    font-size: 18px;
+    font-size: 16px;
    /* color: lavender;*/
-   color: black;
+  color: darkblue;
 }
 
 .MyDiv1 {
@@ -37,28 +37,19 @@ p{
 }
 
 .myimage1{
-    border-radius: 30px;  
+    display: flex;
+    justify-content: center;
+}
+.img1, .img2, .img3 {
     width: 400px;
-  
-    float: left;
-    
-}
+    padding: 5px;
 
-.divimage2
-{  
-    width: 700px;
-    height: auto;
-    float: right;
-    
-    
 }
-    
 
 .home1 ,.port1{
     background-color: yellow;
 }
 .myprogress{
-    position: fixed;
     bottom: 0;
     
 }
